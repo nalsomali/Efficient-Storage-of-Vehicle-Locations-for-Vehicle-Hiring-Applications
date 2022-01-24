@@ -14,4 +14,5 @@ Vehicle hiring companies such as Uber rely on fast localization of available veh
 vehicles and customers are localized using GPS devices available in mobile phones, and these devices determine the longitude and latitude coordinates as floating-point numbers. 
 For simplicity the map was decided into small cells so we used integers to identify each location on the map When a customer request a ride, only vehicles within a certain range of this customer will be contacted
 
+the main has some testcases with different scinarios to test every part of the system 
 
