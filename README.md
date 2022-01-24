@@ -6,6 +6,7 @@ we were required to build a new data structer similar to BST, the tree contains 
 • The nodes in the sub-tree rooted at Child 2 (shown in green in Figure 3) contain locations (x,y) satisfying: x ≤ u and y > v.
 • The nodes in the sub-tree rooted at Child 3 (shown in blue in Figure 3) contain locations (x, y) satisfying: x > u and y ≥ v.
 • The nodes in the sub-tree rooted at Child 4 (shown in yellow in Figure 3) contain locations (x,y) satisfying: x ≥ u and y < v.
+<img width="990" alt="Screen Shot 2022-01-24 at 11 20 18 PM" src="https://user-images.githubusercontent.com/86984964/150858417-639fa729-3b7a-44df-a950-389142953c68.png">
 
 Introduction to the system : 
 
